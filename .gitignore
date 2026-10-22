@@ -1,0 +1,6 @@
+# Ignorar archivos temporales de Microsoft Word (como ~$t...)
+~$*
+
+# Ignorar archivos basura del sistema macOS
+.DS_Store
+._*
